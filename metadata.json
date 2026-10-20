@@ -1,0 +1,6 @@
+{
+  "name": "LENTERA",
+  "description": "Buku penghubung karakter anak: aturan rumah dan sekolah, evaluasi aktivitas mingguan hari Sabtu oleh wali murid, serta feedback dan poin kedisiplinan dari guru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
